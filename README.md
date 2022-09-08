@@ -1,4 +1,2 @@
-<div align="center">
-    <a href="https://github.com/touqeerh" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=touqeerh&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-</div>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
